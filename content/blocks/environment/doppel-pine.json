@@ -1,0 +1,13 @@
+{
+  "localizedName": "Pine",
+  "type": "Block",
+  "breakable": true,
+  "hidden": true,
+  "alwaysReplace": true,
+  "buildVisibility": "sandboxOnly",
+
+  "category": "effect",
+  "requirements": [
+    "edt-timber/8"
+  ]
+}

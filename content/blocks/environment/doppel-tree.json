@@ -1,0 +1,13 @@
+{
+  "localizedName": "White Tree",
+  "type": "TreeBlock",
+  "breakable": true,
+  "hidden": true,
+  "alwaysReplace": true,
+  "buildVisibility": "sandboxOnly",
+  
+  "category": "effect",
+  "requirements": [
+    "edt-timber/16"
+  ]
+}

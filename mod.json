@@ -1,0 +1,14 @@
+{
+  "name": "rubiginosus",
+  "displayName": "Rubiginosus Legacy (Rusted Warfare)",
+  "author": "[[]lime]Mitemi\n\n[[]gray]Contributor:\n[[]cyan]Tikup",
+  "description": "\n\n[[]white]Discord:[[]blue] https://discord.com/invite/TJKZgr6UDg",
+  "subtitle": "Rusted Warfare",
+  "repo": "Mitemi/rubiginosus",
+  "version": "1.0.0",
+  "minGameVersion": "146",
+
+  "dependencies": [
+    "edt"
+  ]
+}

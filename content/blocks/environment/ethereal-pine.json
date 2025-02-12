@@ -1,0 +1,13 @@
+{
+  "localizedName": "False Pine",
+  "type": "Blocks",
+  "breakable": true,
+  "solid": false,
+  "hidden": true,
+  "buildVisibility": "sandboxOnly",
+
+  "category": "effect",
+  "requirements": [
+    "timber-ethereal/10"
+  ]
+}
