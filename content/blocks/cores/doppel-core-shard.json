@@ -7,7 +7,7 @@
   "isFirstTier": true,
   "alwaysUnlocked": false,
   "unitType": "toxopid",
-  "hidden": false,
+  "hidden": true,
   "hasShadow": true,
   "buildVisibility": "debugOnly",
   "unitCapModifier": 3,
